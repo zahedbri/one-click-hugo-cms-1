@@ -1,11 +1,11 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: img/mudicart__1_-removebg-preview.png
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: 553 AS Tower, Beside Mimi Super Market, Chittagong-4203
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "Saturday – Thursday: 9AM – 7PM We’re closed on Friday's"
 ---
 
 We’d love to get in touch with you and hear your ideas and
