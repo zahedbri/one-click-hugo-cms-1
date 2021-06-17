@@ -6,6 +6,8 @@ contact_entries:
     text: 553 AS Tower, Beside Mimi Super Market, Chittagong-4203
   - heading: Working hours
     text: "Saturday – Thursday: 9AM – 7PM We’re closed on Friday's"
+  - heading: Email
+    text: mudicart@yahoo.com
 ---
 
 We’d love to get in touch with you and hear your ideas and
